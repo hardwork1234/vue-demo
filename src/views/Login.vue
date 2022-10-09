@@ -1,5 +1,5 @@
 <template>
-<!-- 登录的 haha-->
+<!-- 登录的 小练习-->
   <div>
     <div class="wrapper">
       <h1>请输入账号密码进行登录</h1>
